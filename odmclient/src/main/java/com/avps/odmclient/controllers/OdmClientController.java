@@ -6,7 +6,7 @@ public class OdmClientController{
 
     @GetMapping(value = "/testEndPoint")
     public String getResponse() {
-        return "This is the first controller";
+        return "This is the first controller.";
         
     }
 }
