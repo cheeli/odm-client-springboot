@@ -1,2 +1,2 @@
 # odm-client-springboot
-Sample client
+Sample client.
