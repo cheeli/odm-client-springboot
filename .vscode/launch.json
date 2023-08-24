@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OdmclientApplication<odmclient>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.avps.odmclient.OdmclientApplication",
+            "projectName": "odmclient",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
